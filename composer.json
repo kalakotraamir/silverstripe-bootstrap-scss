@@ -1,5 +1,5 @@
 {
-    "name": "kalakotra/silverstripe-bootstrap-scss",
+    "name": "kalakotraamir/silverstripe-bootstrap-scss",
     "description": "Bootstrap theme integration in Silverstripe 4 with minifier",
     "type": "silverstripe-vendormodule",
     "keywords": [
