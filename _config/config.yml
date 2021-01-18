@@ -1,0 +1,6 @@
+---
+Name: bootstrapgenerator
+---
+SilverStripe\CMS\Controllers\ContentController:
+  extensions:
+    - KalakotraControllerExtension
